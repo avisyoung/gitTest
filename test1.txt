@@ -7,21 +7,21 @@ Command Listing, Part 1
 4. pwd
 
 Command Listing, Part 2
-1. git version
-2. git config --global user.name "Abe Lincoln"
-3. git config --global user.email "mrabe@git.training"
-4. git config --global --list
-5. git clone github-https-url # paste in your GitHub HTTPS clone URL
-6. ls
-7. cd github-demo
-8. ls
-9. git status
-10. echo "Test Git Quick Start demo" >> start.txt
-11. ls
-12. cat start.txt
-13. git status
-14. git add start.txt
-15. git status
-16. it commit -m "Adding start text file"
-17. git status
-18. git push origin master
+git version
+git config --global user.name "Abe Lincoln"
+git config --global user.email "mrabe@git.training"
+git config --global --list
+git clone github-https-url # paste in your GitHub HTTPS clone URL
+ls
+cd github-demo
+ls
+git status
+echo "Test Git Quick Start demo" >> start.txt
+ls
+cat start.txt
+git status
+git add start.txt
+git status
+it commit -m "Adding start text file"
+git status
+git push origin master
