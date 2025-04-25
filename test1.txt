@@ -1,9 +1,11 @@
 Git Quick Start Commands
+
 Command Listing, Part 1
 pwd
 mkdir projects
 cd projects
 pwd
+
 Command Listing, Part 2
 git version
 git config --global user.name "Abe Lincoln"
