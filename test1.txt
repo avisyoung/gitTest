@@ -1,10 +1,10 @@
 Git Quick Start Commands
 
 Command Listing, Part 1
-pwd
-mkdir projects
-cd projects
-pwd
+1. pwd
+2. mkdir projects
+3. cd projects
+4. pwd
 
 Command Listing, Part 2
 git version
